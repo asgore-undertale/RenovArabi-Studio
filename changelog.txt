@@ -1,0 +1,6 @@
+# Version {[rewrite studio].[updates].[fixes]}:
+	-
+		•
+
+{} around {Tool} or {Scripts} names.
+() around (Normal names) or (Paths).
