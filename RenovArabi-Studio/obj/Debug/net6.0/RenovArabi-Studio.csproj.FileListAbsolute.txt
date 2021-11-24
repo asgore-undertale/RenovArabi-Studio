@@ -1,0 +1,15 @@
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\RenovArabi-Studio.exe
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\RenovArabi-Studio.deps.json
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\RenovArabi-Studio.runtimeconfig.json
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\RenovArabi-Studio.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\ref\RenovArabi-Studio.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\RenovArabi-Studio.pdb
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.csproj.AssemblyReference.cache
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.AssemblyInfoInputs.cache
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.AssemblyInfo.cs
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.csproj.CoreCompileInputs.cache
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\ref\RenovArabi-Studio.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.pdb
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.genruntimeconfig.cache
