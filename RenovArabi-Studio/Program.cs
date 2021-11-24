@@ -27,7 +27,7 @@ list.Remove(1);
 
 foreach (int j in vs) {}
 
-for (int i = 0; i < vs2.Length; i++) {}
+for (int k = 0; k < vs2.Length; k++) {}
 
 class testClass {}
 
@@ -39,7 +39,7 @@ class MyClass : testClass {
     private void Test() {}
 }
 
-MyClass myClass = new MyClass();
+//MyClass MyClass = new MyClass();
 
 /*
 using System;
