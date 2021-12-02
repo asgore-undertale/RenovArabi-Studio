@@ -1,0 +1,8 @@
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\bin\Debug\RenovArabi-Studio-B1.exe
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\bin\Debug\RenovArabi-Studio-B1.pdb
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.csproj.AssemblyReference.cache
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi_Studio_B1.Properties.Resources.resources
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.csproj.GenerateResource.cache
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.csproj.CoreCompileInputs.cache
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.exe
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.pdb
