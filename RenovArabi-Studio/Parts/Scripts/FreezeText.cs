@@ -109,8 +109,6 @@ var FreezedLettersDict = new Dictionary<string, List<string>>() {
             { "ې", new List<string>() { "ﯦ", "ﯧ", "ﯥ", "ﯤ" } },
             { "ی", new List<string>() { "ﯾ", "ﯿ", "ﯽ", "ﯼ" } }
         };
-//var regex = new Regex(Regex.Escape("o"));
-//var newText = regex.Replace("Hello World", "Foo", 1);
 
 namespace RenovArabi_Studio.Parts
 {
