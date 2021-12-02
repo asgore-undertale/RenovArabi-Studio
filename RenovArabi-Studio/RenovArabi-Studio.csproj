@@ -8,4 +8,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CustomScripts\" />
+    <Folder Include="Parts\Classes\" />
+    <Folder Include="Parts\Tools\" />
+    <Folder Include="Parts\Texts\" />
+  </ItemGroup>
+
 </Project>

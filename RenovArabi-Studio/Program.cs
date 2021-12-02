@@ -1,4 +1,6 @@
-﻿int i;
+﻿
+
+int i;
 i = test(6);
 Console.WriteLine("Hello, World! " + i);
 Console.ReadKey();
