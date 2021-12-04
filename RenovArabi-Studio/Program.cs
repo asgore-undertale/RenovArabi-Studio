@@ -58,7 +58,7 @@ namespace RenovArabi
     }
 }
 */
-using System;
+//using System;
 //using System.IO;
 //using System.Globalization;
 //using System.Linq;
@@ -69,33 +69,37 @@ namespace csvReader
 {
     class Program
     {
-        public static void LoadCSV()
+        static void Main(string[] args)
+        {
+            CSVtoList();
+        }
+        public static void LoadCSV() { }
+        public static void CSVtoList()
         {
             var csvPath = @"D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\OtherFiles\Tables\TextTable.csv";
             using TextFieldParser csvReader = new(csvPath);
-            csvReader.CommentTokens = new string[] { "#" };
+            //csvReader.CommentTokens = new string[] { "#" };
             csvReader.SetDelimiters(new string[] { "," });
             csvReader.HasFieldsEnclosedInQuotes = true;
 
             //csvReader.ReadLine(); // Skip the row with the column names
+            List<string[]> table = new();
 
-            int row = 0;
             while (!csvReader.EndOfData)
             {
-                #pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
                 string[] fields = csvReader.ReadFields();
-                #pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
-
-                #pragma warning disable CS8602 // Dereference of a possibly null reference.
-                foreach (int col in Enumerable.Range(0, fields.Length))
-                #pragma warning restore CS8602 // Dereference of a possibly null reference.
+                table.Add(fields);
+            }
+            /*
+            foreach (int row in Enumerable.Range(0, table.Count))
+            {
+                foreach (int col in Enumerable.Range(0, table[row].Length))
                 {
                     Console.WriteLine(row);
                     Console.WriteLine(col);
-                    Console.WriteLine(fields[col]);
+                    Console.WriteLine(table[row][col]);
                 }
-                row++;
-            }
+            }*/
         }
     }
 }
