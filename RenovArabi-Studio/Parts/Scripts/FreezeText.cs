@@ -117,7 +117,7 @@ namespace RenovArabi_Studio.Parts
         public static string FreezeArabic(string text, bool mergLa = true, bool Switch = true)
         {
             string T = " " + text + " ";
-
+            // USE SWITCH !!!!!!!!!!!!!!!!!
             if (Switch)
             {
                 foreach (int i in Enumerable.Range(1, T.Length - 1)) {
