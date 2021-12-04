@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E1V4s5f79w0UgVEEUYyPr19QSC6DNq09PSdrvTSNY9pBF4YCk0e9ufXemSaUXBvVutQMPl5qtf2pHKq2edq85Q==",
+  "dgSpecHash": "9DaWPQkcZd99nsQtc/SlY9+x/kGdNE3mLZpepVUxoHbXc3QSLfowYL09I/A2cZhIcRtPRZvx2E88eoXEVrWyfw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\023\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\023\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

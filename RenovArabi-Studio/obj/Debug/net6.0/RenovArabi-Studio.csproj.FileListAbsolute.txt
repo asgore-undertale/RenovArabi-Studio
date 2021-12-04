@@ -13,3 +13,6 @@ D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\Ren
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\ref\RenovArabi-Studio.dll
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.pdb
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.genruntimeconfig.cache
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\CsvHelper.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\obj\Debug\net6.0\RenovArabi-Studio.csproj.CopyComplete

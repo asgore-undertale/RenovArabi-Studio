@@ -1,4 +1,4 @@
-﻿
+﻿/*
 
 int i;
 i = test(6);
@@ -42,7 +42,7 @@ class MyClass : testClass {
 }
 
 //MyClass MyClass = new MyClass();
-
+*/
 /*
 using System;
 
@@ -58,3 +58,47 @@ namespace RenovArabi
     }
 }
 */
+using System;
+//using System.IO;
+//using System.Globalization;
+//using System.Linq;
+//using CsvHelper;
+using Microsoft.VisualBasic.FileIO;
+
+namespace csvReader
+{
+    class Program
+    {
+        #pragma warning disable IDE0060 // Remove unused parameter
+        static void Main(string[] args)
+        #pragma warning restore IDE0060 // Remove unused parameter
+        {
+            var csvPath = @"D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\RenovArabi-Studio\OtherFiles\Tables\TextTable.csv";
+            using (TextFieldParser csvReader = new (csvPath) )
+            {
+                csvReader.CommentTokens = new string[] { "#" };
+                csvReader.SetDelimiters(new string[] { "," });
+                csvReader.HasFieldsEnclosedInQuotes = true;
+
+                // Skip the row with the column names
+                //csvReader.ReadLine();
+                
+                while (!csvReader.EndOfData)
+                {
+                    #pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
+                    string[] fields = csvReader.ReadFields();
+                    #pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
+
+                    #pragma warning disable CS8602 // Dereference of a possibly null reference.
+                    foreach (int col in Enumerable.Range(0, fields.Length))
+                    #pragma warning restore CS8602 // Dereference of a possibly null reference.
+                    {
+                        Console.WriteLine(col);
+                        Console.WriteLine(fields[col]);
+                    }
+                }
+
+            }
+        }
+    }
+}

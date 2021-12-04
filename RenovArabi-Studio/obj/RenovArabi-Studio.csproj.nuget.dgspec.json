@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj": {}
+    "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj": {
+    "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
+        "projectUniqueName": "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
         "projectName": "RenovArabi-Studio",
-        "projectPath": "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
-        "packagesPath": "C:\\Users\\Monta\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Monta\\Documents\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\obj\\",
+        "projectPath": "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\RenovArabi-Studio.csproj",
+        "packagesPath": "C:\\Users\\023\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmad\\Desktop\\GitHub\\RenovArabi-Studio\\RenovArabi-Studio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Monta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\023\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +29,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net60": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -36,13 +41,34 @@
         }
       },
       "frameworks": {
-        "net60": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

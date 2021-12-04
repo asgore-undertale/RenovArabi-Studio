@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 // Vars file...
 var Harakat = "ﱠﳲﱠﳳﱢﳴﱞﱟﹰﹱﹲﹴﹶﹷﹸﹹﹺﹻﹼﹽﹾﹿًٌٍَُِّْ";
 var CharsConnectsBack = "آأؤإاةدذرزوىٱڍڌڎڈژڑۀےۓۇۆۈۋۅۉ";
@@ -182,3 +182,4 @@ namespace RenovArabi_Studio.Parts
         }
     }
 }
+*/
