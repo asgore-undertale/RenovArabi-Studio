@@ -9,14 +9,14 @@ using System.Windows.Forms;
 
 namespace RenovArabi_Studio_B1
 {
-    public partial class Form1 : Form
+    public partial class O1_General : Form
     {
-        public Form1()
+        public O1_General()
         {
             InitializeComponent();
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
 
         }

@@ -14,3 +14,4 @@ D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\Reno
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.csproj.CoreCompileInputs.cache
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.exe
 D:\Ahmad\Desktop\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi-Studio-B1.pdb
+D:\Users\Monta\Documents\GitHub\RenovArabi-Studio\_MansourPoC1\RenovArabi-Studio-B1\RenovArabi-Studio-B1\obj\Debug\RenovArabi_Studio_B1.Form1.resources
